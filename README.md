@@ -1,10 +1,10 @@
 # FiuFit
 
-## Taller de Programación II (75.22)
+## Taller de Programación II (75.52)
 ### Facultad de Ingeniería - Universidad de Buenos Aires
 
 Trabajo realizado durante el 1er cuatrimestre del 2023. 
-FiuFit es una plataforma digital la cual permite a los usuarios realizar un seguimiento de sus entrenamientos y actividad física, establecer y realizar un seguimiento de los objetivos de fitness y ver su progreso a lo largo del tiempo El espíritu de esta plataforma es poder brindar una conexión entre los usuarios y los entrenadores, para poder así lograr sus objetivos.
+FiuFit es una plataforma digital la cual permite a los usuarios realizar un seguimiento de sus entrenamientos y actividad física, establecer y realizar un seguimiento de los objetivos de fitness y ver su progreso a lo largo del tiempo. El espíritu de esta plataforma es poder brindar una conexión entre los usuarios y los entrenadores, para poder así lograr sus objetivos.
 
 
 ### Integrantes - Grupo 4
